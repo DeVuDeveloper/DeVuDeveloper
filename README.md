@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: There are around 700 separate programming languages. .
 - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VuDEj&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
