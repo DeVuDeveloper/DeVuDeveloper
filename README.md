@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%009E60F7&lines=The+starts+are+important+give one+quickly)](https://git.io/typing-svg)
 
 **VuDej/VuDEj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: There are around 700 separate programming languages. .
 - [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VuDEj&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
