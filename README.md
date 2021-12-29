@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#006400&lines=Stars+are+important+give+one+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=rgb(0,250,154)ines=Stars+are+important+give+one+quickly)](https://git.io/typing-svg)
 
 **VuDej/VuDEj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
