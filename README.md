@@ -1,7 +1,4 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=rgb(0,100,0)&lines=Stars+are+important+give+one+quickly)](https://git.io/typing-svg)
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Javascript.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on GitHub.
