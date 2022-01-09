@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?	color=#b22222 &lines=Add+one+star+quikly.Thank+You)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?	color=%23b22222 &lines=Add+one+star+quikly.Thank+You)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Javascript.
 - 🌱 I’m currently learning React.
