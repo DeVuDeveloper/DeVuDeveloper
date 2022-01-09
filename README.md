@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Add+one+star+fast;Thank+You](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on Javascript.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on GitHub.
