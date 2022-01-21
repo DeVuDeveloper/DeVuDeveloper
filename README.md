@@ -1,10 +1,10 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23dc143c&lines=Add+one+star+quikly.Thank+You!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on Javascript.
+- 🔭 I’m Front -end developer.
 - 🌱 I’m currently learning React.
+- 🤔 I’m available for hire.
 - 👯 I’m looking to collaborate on GitHub.
-- 🤔 I’m looking for help with Javascript.
 - 💬 Ask me about my projects.
 - 📫 How to reach me: https://github.com/VuDej
 - 😄 Pronouns: Object: What is that?
