@@ -82,8 +82,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <br>
 
-<a href="https://github.com/VuDej/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=VuDej&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/VuDej/Web-Summit-2022-Lisbon
+">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=VuDej&repo=Web-Summit-2022-Lisbon
+&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
