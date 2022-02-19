@@ -27,7 +27,7 @@ I'm a front end engineer with experience developing complex, high profile web ap
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:drvu47@gmail.com) :)
+- 💼 "available for hire"! do reach, [email](mailto:drvu47@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
@@ -47,10 +47,10 @@ I'm a front end engineer with experience developing complex, high profile web ap
 <!--START_SECTION:waka-->
 ```text
 JavaScript   17 hrs 26 mins  ████████████████▒░░░░░░░░   65.30 % 
-React         4 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Redux   3 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-HTML          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-CSS          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+React         4 hrs 30 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Redux   3 hrs 57 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+HTML          17 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+CSS          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 ```
 <!--END_SECTION:waka-->
 
