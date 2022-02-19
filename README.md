@@ -47,9 +47,9 @@ I'm a front end engineer with experience developing complex, high profile web ap
 <!--START_SECTION:waka-->
 ```text
 JavaScript   17 hrs 26 mins  ████████████████▒░░░░░░░░   65.30 % 
-SCSS         4 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.89 % 
-TypeScript   3 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-XML          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+React         4 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Redux   3 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+HTML          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 CSS          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
