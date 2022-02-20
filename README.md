@@ -117,6 +117,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </a>
 
 <p align="center">
-  <img src="https://github.com/iVuDej/VuDej/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
