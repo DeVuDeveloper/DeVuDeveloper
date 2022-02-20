@@ -116,6 +116,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=VuDej&repo=Math-Magicians&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<p align="center">
-  <img src="https://github.com/VuDej/VuDej/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
