@@ -11,9 +11,6 @@
 <a href="https://www.linkedin.com/in/dejan-vujovic-5a0672225//">
   <img align="left" alt="Dejan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/317a3r2lc6vdlaijy63e3yvx2dwa?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Dejan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=VuDej.VuDej)
 
