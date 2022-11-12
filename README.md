@@ -18,7 +18,7 @@
 
 Hi, I'm [Dejan Vujovic](https://vudej.github.io/Portfolio/), a passionate  developer and a software engineer from Montenegro. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 I'm a Full-stack web developer with experience developing complex, high profile web applications collaborating with both small and large teams. I specialise in JavaScript,thriving in an agile environmentleveraging modern technologies such as React and Redux. I mastered Ruby and Ruby on Rails and databases too. I pride myselfin writing scalable, elegant code — creating simple solutions to complex problems.
- I’m currently a student at Microverse an online coding school.
+
 
 
 
