@@ -11,8 +11,32 @@
 
 <br />
 
-Hi, I'm , a passionate  developer and a software engineer from Montenegro. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-I'm a Full-stack web developer with experience developing complex, high profile web applications collaborating with both small and large teams. I specialise in JavaScript,thriving in an agile environmentleveraging modern technologies such as React and Redux. I mastered Ruby and Ruby on Rails and databases too. I pride myselfin writing scalable, elegant code — creating simple solutions to complex problems.
+## Hi, I'm Dejan 👋
+
+Experienced Ruby on Rails and React Developer | Full Stack Enthusiast
+
+🚀 4+ years of professional experience in developing robust web applications using Ruby on Rails and React.
+
+🌟 Passionate about crafting clean, efficient, and scalable code to create user-friendly and high-performance web solutions.
+
+💼 Strong expertise in Ruby on Rails, including building RESTful APIs, integrating with third-party services, and optimizing database queries.
+
+💡 Proficient in React ecosystem, designing and implementing interactive UI components, and state management using Redux.
+
+🔧 Skilled in frontend technologies like HTML, CSS, and JavaScript, and familiar with modern tools and frameworks such as Webpack and Babel.
+
+📚 Continuous learner, always staying up-to-date with the latest industry trends and eager to explore new technologies and frameworks.
+
+💪 Strong problem-solving and analytical skills, with a focus on delivering high-quality solutions within deadlines.
+
+🤝 Collaborative team player, adept at working in agile environments, communicating effectively, and collaborating with cross-functional teams.
+
+🌍 Committed to creating impactful web experiences that drive user engagement and satisfaction.
+
+🔗 Check out my portfolio and projects below to see my work and get in touch!
+
+Let's connect and build something awesome together! 😊
+
 
 
 
