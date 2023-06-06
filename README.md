@@ -1,4 +1,6 @@
-# <p align="center">Rails and React Developer</p>
+<p align="center">
+  <img src="header.png" alt="Rails and React Developer">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile">
@@ -29,18 +31,24 @@ Hello! I'm a skilled Rails and React developer with a passion for building robus
 ## Projects
 
 ### Project 1: E-commerce Platform
+![E-commerce Platform](ecommerce.gif)
+
 - A full-stack e-commerce platform built with Ruby on Rails, React.js, and PostgreSQL.
 - Implemented user authentication, shopping cart functionality, and order processing.
 - Integrated third-party APIs for payment processing and shipping.
 - Technologies used: Ruby on Rails, React.js, PostgreSQL, Stripe API, AWS S3, Bootstrap.
 
 ### Project 2: Task Management App
+![Task Management App](task_management.gif)
+
 - A web application built to manage tasks and projects efficiently.
 - Developed the back-end using Ruby on Rails, including user authentication and authorization.
 - Built the front-end using React.js with a responsive and intuitive user interface.
 - Technologies used: Ruby on Rails, React.js, PostgreSQL, Devise, JWT, Material-UI.
 
 ### Project 3: Blogging Platform
+![Blogging Platform](blogging_platform.gif)
+
 - Created a blog platform with Ruby on Rails for content management and React.js for the front-end.
 - Implemented features such as user authentication, post creation/editing, and comment functionality.
 - Integrated a rich text editor for creating and formatting blog posts.
