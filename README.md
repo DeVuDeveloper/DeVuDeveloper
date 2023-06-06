@@ -1,111 +1,72 @@
-### Hi there,
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23dc143c&lines=Add+one+star+quikly.Thank+You!)](https://git.io/typing-svg)
+# <p align="center">Rails and React Developer</p>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://your-portfolio-website.com">
+    <img src="https://img.shields.io/badge/-Portfolio-red" alt="Portfolio">
+  </a>
+  <a href="https://github.com/your-github-profile">
+    <img src="https://img.shields.io/badge/-GitHub-black?logo=github" alt="GitHub">
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/devuj/">
-  <img align="left" alt="Dejan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+## Introduction
 
-![](https://visitor-badge.glitch.me/badge?page_id=VuDej.VuDej)
+Hello! I'm a skilled Rails and React developer with a passion for building robust and user-friendly web applications. I have experience working with both front-end and back-end technologies, allowing me to create seamless and efficient experiences for users. With a strong understanding of software development principles, I strive to deliver high-quality code and exceptional results.
 
-<br />
+## Skills
 
-Hi, I'm , a passionate  developer and a software engineer from Montenegro. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-I'm a Full-stack web developer with experience developing complex, high profile web applications collaborating with both small and large teams. I specialise in JavaScript,thriving in an agile environmentleveraging modern technologies such as React and Redux. I mastered Ruby and Ruby on Rails and databases too. I pride myselfin writing scalable, elegant code — creating simple solutions to complex problems.
+- **Ruby on Rails**: Proficient in building scalable web applications using Ruby on Rails framework, following best practices and industry standards.
+- **React.js**: Experienced in building interactive and dynamic user interfaces using React.js library and related tools like Redux, React Router, and Next.js.
+- **Front-end Development**: Proficient in HTML5, CSS3, and JavaScript, with a strong focus on creating responsive and accessible designs.
+- **Back-end Development**: Expertise in designing and implementing RESTful APIs, working with databases (SQL and NoSQL), and handling server-side logic.
+- **Test-Driven Development**: Experience in writing unit tests, integration tests, and end-to-end tests using frameworks like RSpec, Jasmine, and Jest.
+- **Version Control**: Proficient in using Git and GitHub for version control and collaboration in team environments.
+- **Deployment and DevOps**: Familiarity with deploying applications to cloud platforms like Heroku and AWS, as well as utilizing containerization with Docker.
 
+## Projects
 
+### Project 1: E-commerce Platform
+- A full-stack e-commerce platform built with Ruby on Rails, React.js, and PostgreSQL.
+- Implemented user authentication, shopping cart functionality, and order processing.
+- Integrated third-party APIs for payment processing and shipping.
+- Technologies used: Ruby on Rails, React.js, PostgreSQL, Stripe API, AWS S3, Bootstrap.
 
+### Project 2: Task Management App
+- A web application built to manage tasks and projects efficiently.
+- Developed the back-end using Ruby on Rails, including user authentication and authorization.
+- Built the front-end using React.js with a responsive and intuitive user interface.
+- Technologies used: Ruby on Rails, React.js, PostgreSQL, Devise, JWT, Material-UI.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 "available for hire"! do reach, [email](mailto:drvu47@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+### Project 3: Blogging Platform
+- Created a blog platform with Ruby on Rails for content management and React.js for the front-end.
+- Implemented features such as user authentication, post creation/editing, and comment functionality.
+- Integrated a rich text editor for creating and formatting blog posts.
+- Technologies used: Ruby on Rails, React.js, PostgreSQL, Active Storage, Trix, Bulma.
 
-**languages and tools:**  
+## Experience
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+### Company Name | Position | Date Range
+- Description of responsibilities and accomplishments in this role.
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   57 hrs 26 mins  ████████████████▒░░░░░░░░   65.30 % 
-React        21 hrs 30 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Redux         3 hrs 57 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-HTML          2 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-CSS           1 hrs 15 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-```
-<!--END_SECTION:waka-->
+### Company Name | Position | Date Range
+- Description of responsibilities and accomplishments in this role.
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+## Education
 
-<a href="https://www.buymeacoffee.com/drvu47K" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+### Bachelor's Degree in Computer Science | University Name | Year Graduated
+- Relevant coursework: Web Development, Object-Oriented Programming, Database Systems.
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+## Certifications
 
-## &#x1f4c8; GitHub Stats
+- Certification Name | Year Obtained
+- Certification Name | Year Obtained
 
-<a href="https://github.com/DeVuDeveloper">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=VuDej&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Dejan's GitHub Stats" />
-</a>
+## Contact
 
-## 🌏 Browser Support
+Thank you for taking the time to review my profile. If you have any questions or would like to discuss a potential project or collaboration, feel free to reach out to me through one of the following channels:
 
-<img align="right" src="https://i.giphy.com/media/26ufdipQqU2lhNA4g/giphy.webp" alt="Programmation" width="100" />
-
-| <img src="https://user-images.githubusercontent.com/1215767/34348387-a2e64588-ea4d-11e7-8267-a43365103afe.png" alt="Chrome" width="16px" height="16px" /> Chrome | Brave | <img src="https://user-images.githubusercontent.com/1215767/34348383-9e7ed492-ea4d-11e7-910c-03b39d52f496.png" alt="Firefox" width="16px" height="16px" /> Firefox | <img src="https://user-images.githubusercontent.com/1215767/34348394-a981f892-ea4d-11e7-9156-d128d58386b9.png" alt="Safari" width="16px" height="16px" /> Safari | <img src="https://user-images.githubusercontent.com/1215767/34348380-93e77ae8-ea4d-11e7-8696-9a989ddbbbf5.png" alt="Edge" width="16px" height="16px" /> Edge | <img src="https://user-images.githubusercontent.com/1215767/34348590-250b3ca2-ea4f-11e7-9efb-da953359321f.png" alt="IE" width="16px" height="16px" /> Internet Explorer |
-| :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
-| Yes | Yes | Yes | Yes | Yes | 6+ 🤣 |
-
-<br />
-  
-  ## 📌 Pinned Repositories
-
-<br>
-
-
-<a href="https://github.com/VuDej/Portfolio">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=VuDej&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/VuDej/Web-Summit-2022-Lisbon">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=VuDej&repo=Web-Summit-2022-Lisbon&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-<a href="https://github.com/VuDej/To-Do-list">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=VuDej&repo=To-Do-list&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/VuDej/Awesome-Books-ES6">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=VuDej&repo=Awesome-Books-ES6&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/VuDej/Leaderboard">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=VuDej&repo=Leaderboard&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/VuDej/Capstone-2-JavaScript">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=VuDej&repo=Capstone-2-JavaScript&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/VuDej/Math-Magicians">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=VuDej&repo=Math-Magicians&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- Portfolio: [Your Portfolio Website](https://your-portfolio-website.com)
