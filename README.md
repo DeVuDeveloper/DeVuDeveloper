@@ -38,13 +38,18 @@ I'm a Full-stack web developer with experience developing complex, high profile 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   57 hrs 26 mins  ████████████████▒░░░░░░░░   65.30 % 
-React        21 hrs 30 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Redux         3 hrs 57 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-HTML          2 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-CSS           1 hrs 15 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-```
-<!--END_SECTION:waka-->
+Ruby on Rails   50 hrs 00 mins  ██████████████░░░░░░░░░░░   46.00%
+JavaScript      22 hrs 22 mins  ███████░░░░░░░░░░░░░░░░░░   22.22%
+Ruby            8 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   8.89%
+React           4 hrs 26 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   4.44%
+Redux           2 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
+Tailwind CSS    2 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
+Sass            1 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
+Redis           1 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.34%
+PostgreSQL      2 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
+Sidekiq         1 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.34%
+Elasticsearch   1 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.34%
+
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
@@ -79,7 +84,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br>
 
 
-<a href="https://github.com/DeVuDeveloper/Portfolio">
+<a href="https://github.com/DeVuDeveloper/bank-app-rails">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DeVuDeveloper&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
