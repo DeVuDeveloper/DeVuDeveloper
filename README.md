@@ -1,9 +1,7 @@
 ### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23dc143c&lines=Add+one+star+quikly.Thank+You!)](https://git.io/typing-svg)
 ![](https://visitor-badge.glitch.me/badge?page_id=DeVuDeveloper.DeVuDeveloper)
-## Hi, I'm Dejan 👋  <a href="https://www.linkedin.com/in/devuj/">
-  <img align="left" alt="Dejan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+## Hi, I'm Dejan 👋  <a href="https://www.linkedin.com/in/devuj/"><img align="left" alt="Dejan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 
 Experienced Ruby on Rails and React Developer | Full Stack Enthusiast
 
