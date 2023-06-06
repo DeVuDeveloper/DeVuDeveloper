@@ -2,13 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23dc143c&lines=Add+one+star+quikly.Thank+You!)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/SHnyuVXP">
-  <img align="left" alt="Dejan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/DejanVuj">
-  <img align="left" alt="Dejan Vujovic | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/dejan-vujovic-5a0672225//">
+
+<a href="https://www.linkedin.com/in/devuj/">
   <img align="left" alt="Dejan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
