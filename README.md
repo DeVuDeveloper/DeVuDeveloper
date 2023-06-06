@@ -27,11 +27,7 @@ Experienced Ruby on Rails and React Developer | Full Stack Enthusiast
 
 Let's connect and build something awesome together! 😊
 
-
-
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 "available for hire"! do reach, [email](mailto:dejanvu.developer@@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -63,7 +59,7 @@ Redis           1 hrs 20 mins   ▒░░░░░░░░░░░░░░░
 PostgreSQL      2 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
 Sidekiq         1 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.34%
 Elasticsearch   1 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.34%
-
+<!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
