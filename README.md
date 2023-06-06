@@ -1,7 +1,7 @@
 ### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23dc143c&lines=Add+one+star+quikly.Thank+You!)](https://git.io/typing-svg)
 ![](https://visitor-badge.glitch.me/badge?page_id=DeVuDeveloper.DeVuDeveloper)
-## Hi, I'm Dejan 👋  <a href="https://www.linkedin.com/in/devuj/"><img align="left" alt="Dejan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+## Hi, I'm Dejan 👋 
 
 Experienced Ruby on Rails and React Developer | Full Stack Enthusiast
 
@@ -27,7 +27,11 @@ Experienced Ruby on Rails and React Developer | Full Stack Enthusiast
 
 Let's connect and build something awesome together! 😊
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 "available for hire"! do reach, [email](mailto:dejanvu.developer@@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -59,8 +63,10 @@ Redis           1 hrs 20 mins   ▒░░░░░░░░░░░░░░░
 PostgreSQL      2 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
 Sidekiq         1 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.34%
 Elasticsearch   1 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.34%
-```text
+```
 <!--END_SECTION:waka-->
+
+
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
@@ -123,4 +129,3 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://github.com/DeVuDeveloper/Math-Magicians">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DeVuDeveloper&repo=Math-Magicians&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
