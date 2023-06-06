@@ -102,7 +102,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 <a href="https://github.com/DeVuDeveloper/bank-app-rails">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DeVuDeveloper&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DeVuDeveloper&repo=bank-app-rails&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/DeVuDeveloper/Web-Summit-2022-Lisbon">
